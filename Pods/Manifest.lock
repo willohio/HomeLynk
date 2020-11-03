@@ -1,0 +1,99 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Alamofire (3.1.5)
+  - HNKGooglePlacesAutocomplete (1.1.1):
+    - HNKGooglePlacesAutocomplete/Models (= 1.1.1)
+    - HNKServerFacade (~> 0.3)
+    - Mantle (~> 2.0)
+  - HNKGooglePlacesAutocomplete/Models (1.1.1):
+    - HNKGooglePlacesAutocomplete/Models/Networking (= 1.1.1)
+    - HNKServerFacade (~> 0.3)
+    - Mantle (~> 2.0)
+  - HNKGooglePlacesAutocomplete/Models/Networking (1.1.1):
+    - HNKServerFacade (~> 0.3)
+    - Mantle (~> 2.0)
+  - HNKServerFacade (0.3.0):
+    - AFNetworking (~> 2.5)
+  - IQKeyboardManagerSwift (3.3.5)
+  - LMGeocoder (1.0.4)
+  - Locksmith (2.0.6)
+  - M13Checkbox (1.1.2)
+  - Mantle (2.0.6):
+    - Mantle/extobjc (= 2.0.6)
+  - Mantle/extobjc (2.0.6)
+  - SMPageControl (1.2)
+  - SnapKit (0.19.1)
+  - SwiftyJSON (2.3.2)
+  - SWXMLHash (2.1.0)
+  - TTRangeSlider (1.0.3)
+  - ViewDeck (2.4.1)
+  - XCGLogger (3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - HNKGooglePlacesAutocomplete (~> 1.1)
+  - IQKeyboardManagerSwift (~> 3.3.5)
+  - LMGeocoder
+  - Locksmith (~> 2.0.1)
+  - M13Checkbox (~> 1.1.2)
+  - SMPageControl
+  - SnapKit (~> 0.19.0)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - SWXMLHash (~> 2.1.0)
+  - TTRangeSlider (from `https://github.com/TomThorpe/TTRangeSlider`)
+  - ViewDeck (~> 2.4)
+  - XCGLogger (~> 3.2)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+  TTRangeSlider:
+    :git: https://github.com/TomThorpe/TTRangeSlider
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 42bdb102d2624b143c07850ebdc1537d5b6579b6
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+  TTRangeSlider:
+    :commit: 979785630558ed40938cffb1a71862a2bba2a537
+    :git: https://github.com/TomThorpe/TTRangeSlider
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  HNKGooglePlacesAutocomplete: e3628e130ad9c6b909760bf314b98227b03e708f
+  HNKServerFacade: 0fa3839353480b8862563a34903ad1406a38b4c9
+  IQKeyboardManagerSwift: 17f1ebf3fe07f7905369c6dca2da1051b6fea805
+  LMGeocoder: a0f635f948b0ca420d8d338e54886744cdcb215d
+  Locksmith: 42ec3d535448e3c218f4342782b07a222b1acfd1
+  M13Checkbox: 0c0bb08dcd144c4ea33f883b68270f3f56908ea2
+  Mantle: 299966b00759634931699f69cb6a30b9239b944d
+  SMPageControl: 922892813001cfaf059e86e6801f46a967e9ee29
+  SnapKit: eff58d6e3451bf2f482db2eccf86aecf371dc62d
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  SWXMLHash: 7257a358b3ab2f7a209e0b4e4cf552e8b6df5f0f
+  TTRangeSlider: a12d0ac242a785cf96d4c7dacfe07e42a161251e
+  ViewDeck: e4c744cb5383cbae40cf286c6e7246df33962020
+  XCGLogger: da1f341f4bb8979db6e1df64232f04d9698402d4
+
+COCOAPODS: 0.39.0
