@@ -2,8 +2,8 @@
 //  NSCache+Subscript.swift
 //  HomeLynk
 //
-//  Created by Ivan Dilchovski on 2/26/16.
-//  Copyright © 2016 Ivan Dilchovski. All rights reserved.
+//  Created by William Santiago on 2/26/16.
+//  Copyright © 2016 William Santiago. All rights reserved.
 //
 
 import Foundation

@@ -2,8 +2,8 @@
 //  NYRetsLoginEndpoint.swift
 //  HomeLynk
 //
-//  Created by Ivan Dilchovski on 1/27/16.
-//  Copyright © 2016 Ivan Dilchovski. All rights reserved.
+//  Created by William Santiago on 1/27/16.
+//  Copyright © 2016 William Santiago. All rights reserved.
 //
 
 import Foundation
